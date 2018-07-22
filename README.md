@@ -1,7 +1,7 @@
 # Feed-Reader-Testing-Udacity
 Front End Web Developer Nanodegree project GWG 
 
-The purpose of this project is to learn the standard of development known as "test-driven development".
+The purpose of this project is to learn the standard of development known "test-driven development".
 
 ## How to use
 * Clone this repository or download the ZIP to run it locally on your computer.
