@@ -5,7 +5,7 @@ The purpose of this project is to learn the standard of development known as "te
 
 ## How to use
 * Clone this repository or download the ZIP to run it locally on your computer.
-* Select the index.html file to start the application, you'll see at the bottom of the pafe the Jasmine test results.
+* Select the index.html file to start the application, you'll see Jasmine test results at the bottom of the page .
 
 ## Resources and Dependencies
 https://jasmine.github.io/2.2/introduction
